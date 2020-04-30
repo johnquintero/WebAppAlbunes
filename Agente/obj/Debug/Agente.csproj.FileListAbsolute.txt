@@ -1,0 +1,5 @@
+C:\JOHNQ\Prueba\WebAppAlbunesJJQP\Agente\bin\Debug\Agente.dll
+C:\JOHNQ\Prueba\WebAppAlbunesJJQP\Agente\bin\Debug\Agente.pdb
+C:\JOHNQ\Prueba\WebAppAlbunesJJQP\Agente\obj\Debug\Agente.csprojResolveAssemblyReference.cache
+C:\JOHNQ\Prueba\WebAppAlbunesJJQP\Agente\obj\Debug\Agente.dll
+C:\JOHNQ\Prueba\WebAppAlbunesJJQP\Agente\obj\Debug\Agente.pdb
